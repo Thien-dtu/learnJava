@@ -1,0 +1,11 @@
+﻿Type,BeneficiaryID,Name,BirthDate,Address,Illness,SickDate,DisasterType,ImpactDate,TotalDamage,Income,Dependant,BenefitDate,Benefit
+1,BF001,Nguyen Bao Anh,1983-06-03,10 Phan Chau Trinh,Suy Than,2020-04-03,,,,,,2020-07-05,30000000
+2,BF002,Pham Anh Minh,2018-05-02,25 Nguyen Chi Thanh,,,Lu lut,2020-03-11,70000000,,,2020-11-15,30000000
+3,BF003,Le Duong Phuc,1975-10-03,13 Nguyen Van Thoai,,,,,,500000,2,2021-06-30,10000000
+1,BF004,Tran Cong Minh,1972-04-04,30 Nguyen Phuoc Lan,Phoi Man Tinh,2019-11-20,,,,,,2020-01-07,30000000
+2,BF005,Tran Dinh Nghia,2015-07-08,10 Vo Chi Cong,,,Lu lut,2020-11-15,50000000,,,2020-11-30,20000000
+3,BF006,Tran Gia Bao,1980-03-15,21 Quang Thi Trang,,,,,,700000,3,2021-06-30,10000000
+1,BF007,Nguyen Minh Phuong,1979-06-07,22 Bui Thien Ngo,Tai Bien,2021-03-07,,,,,,2021-05-07,30000000
+2,BF008,Pham Ba Chau,2017-04-05,15 Ong Ich Khiem,,,Han han,2020-07-03,90000000,,,2020-07-15,40000000
+3,BF009,Tran Nhu Thu,1970-06-09,20 Dao Tan,,,,,,900000,2,2021-06-30,10000000
+1,BF010,Nguyen Thi Thuy,1989-04-02,13 Ong Ich Duong,Suy Tim,2021-07-03,,,,,,2021-08-15,20000000
